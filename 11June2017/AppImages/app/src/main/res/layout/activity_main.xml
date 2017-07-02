@@ -56,12 +56,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:padding="10dp"
+            android:textSize="20sp"
             android:text="Hello world Description Hello world Description Hello world Description" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:padding="10dp"
+            android:textSize="20sp"
             android:text="Address 123, Address 123, Address 123," />
 
         <LinearLayout
