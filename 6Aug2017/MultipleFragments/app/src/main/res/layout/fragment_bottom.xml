@@ -1,0 +1,15 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#00f"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="fragments.multiplefragments.BottomFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:textColor="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Bottom Fragment" />
+
+</FrameLayout>
