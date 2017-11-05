@@ -1,0 +1,74 @@
+{
+   "users":{
+       "-zeeshanId1":{
+		"name":"User One",
+		"chats":{
+			"-converId1":{
+				"name":"Ishaq",
+				"lastMsgTime":"154566646464"
+			},
+			"-converId2":{
+				"name":"Arbaz",
+				"lastMsgTime":"154566544964"
+			},
+			"-converId3":{
+				"name":"Android Pizza Party ",
+				"lastMsgTime":"154566654154"
+			}
+		}
+	},
+
+       "-ishaqId1":{
+		"name":"Ishaq",
+		"chats":{
+			"-converId1":{
+				"name":"Zeeshan"
+			},
+			"-converId3":{
+				"name":"Android Pizza Party "
+			}
+		}
+	},
+
+       "-arbazId1":{
+		"name":"Arbaz",
+		"chats":{
+			"-converId3":{
+				"name":"Android Pizza Party "
+			}
+		}
+	}
+   }
+
+   "conversations":{
+      "-converId1":{
+		"title":"Conversation Title",
+		"users":{
+			"-zeeshanId1":"Zeeshan",
+			"-ishaqId1":"Ishaq"
+		}
+		"messages":{
+			"-msgId1":{
+				"text":"Hello world",
+				"time":"6646164646",
+				"from" :"-userId1"
+			}
+		}
+	},
+	"-converId3":{
+		"title":"Pie in the sky cake party",
+		"users":{
+			"-zeeshanId1":"Zeeshan",
+			"-ishaqId1":"Ishaq",
+			"-arbazId1":"Arbaz"
+		}
+		"messages":{
+			"-msgId1":{
+				"text":"Hello world",
+				"time":"6646164646",
+				"from" :"-userId1"
+			}
+		}
+	}
+   }
+}

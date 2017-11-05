@@ -26,7 +26,7 @@ public class AddActivity extends AppCompatActivity {
         final EditText etPhone = (EditText) findViewById(R.id.etPhone);
         final EditText etAge = (EditText) findViewById(R.id.etAge);
         Button addBtn = (Button) findViewById(R.id.addBtn);
-        
+
         FirebaseDatabase db = FirebaseDatabase.getInstance();
         final DatabaseReference ref = db.getReference("students");
 
