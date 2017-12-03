@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "721459479759",
+    "firebase_url": "https://ssuet-android-beg17.firebaseio.com",
+    "project_id": "ssuet-android-beg17",
+    "storage_bucket": "ssuet-android-beg17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721459479759:android:ab77135b0c1202c0",
+        "android_client_info": {
+          "package_name": "httprequestdemoone.firebasedemo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721459479759-cri67vgmu96vpv0dj01emtm1qoaa3kmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZrQrgk42LdY94ynLX61P3pxYA_St0dt8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
