@@ -57,6 +57,7 @@ CMD ["java","-jar","app.jar"]
 ```
 - Now save your file as `Dockerfile` **(Without any Extension)** 
 - Now Run `heroku create` then you will get a app name like `dry-cliffs-62493`
-- Now you need to build your docker image with heroku registery containing platform and app name. Now Run `docker image build -t registry.heroku.com/app-name/web`. Therefore you need to replace **`app-name`** with your heroku app name like `dry-cliffs-62493` so assuming this app name, your docker image will be built by `docker image build -t registry.heroku.com/dry-cliffs-62493/web`.
-- This will build your image and now push it to heroku by running `docker push registry.heroku.com/app-name/web`
+- Now you need to build your docker image with heroku registery containing platform and app name. Now Run `docker image build -t registry.heroku.com/app-name/web .` (Note that . at the end, it means that your Dockerfile is in current Directory) Therefore you need to replace **`app-name`** with your heroku app name like `dry-cliffs-62493` so assuming this app name, your docker image will be built by `docker image build -t registry.heroku.com/dry-cliffs-62493/web`.
+- Run `heroku container:login` to login to heroku container Registery.
+- Now push it to heroku by running `docker push registry.heroku.com/app-name/web`
 - Now your open your app with `heroku open` or open the url as `https://app-name.herokuapp.com` and yes **`app-name`** should be replaced with your **heroku app name**
