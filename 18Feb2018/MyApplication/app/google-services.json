@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "312423918886",
+    "firebase_url": "https://my-todo-list-270f7.firebaseio.com",
+    "project_id": "my-todo-list-270f7",
+    "storage_bucket": "my-todo-list-270f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312423918886:android:99f866012477d0b5",
+        "android_client_info": {
+          "package_name": "com.suet.recyclerviewwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312423918886-govaf2b2erk7s8tvl9k0buclrf7lu6kh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnPbSYvQpzkI-C3idSufBEUDe3TDTWU3I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
