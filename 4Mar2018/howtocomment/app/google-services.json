@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "297676426235",
+    "firebase_url": "https://ubook-995e3.firebaseio.com",
+    "project_id": "ubook-995e3",
+    "storage_bucket": "ubook-995e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297676426235:android:245db4aca0948964",
+        "android_client_info": {
+          "package_name": "com.example.maan.ubook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297676426235-mf2k7n3dkkrd87utjovta53vam1ba5to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMZmfeU2vKFEyB4BVlKJ6NLd8mCn_Txks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297676426235:android:3188b31696a1529e",
+        "android_client_info": {
+          "package_name": "comment.ssuet.com.howtocomment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297676426235-mf2k7n3dkkrd87utjovta53vam1ba5to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMZmfeU2vKFEyB4BVlKJ6NLd8mCn_Txks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

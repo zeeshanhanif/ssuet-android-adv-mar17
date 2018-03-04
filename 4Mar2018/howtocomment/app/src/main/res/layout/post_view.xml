@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/userposted"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Usamn"/>
+    <TextView
+        android:id="@+id/tvpostmessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Post Message"/>
+
+    <EditText
+        android:id="@+id/commes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Write Something..."/>
+    <Button
+        android:id="@+id/commentbtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Comment"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/mycomments"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></android.support.v7.widget.RecyclerView>
+    
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@color/colorPrimary"/>
+</LinearLayout>
