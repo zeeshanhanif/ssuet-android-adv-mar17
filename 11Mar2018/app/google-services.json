@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1084218259295",
+    "firebase_url": "https://testnorificationproject.firebaseio.com",
+    "project_id": "testnorificationproject",
+    "storage_bucket": "testnorificationproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084218259295:android:446f09cd5d20cd52",
+        "android_client_info": {
+          "package_name": "com.sample.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084218259295-91k60igkbsgim2uj8chh84jvieiemo6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE0cbi3HMm5KF2CZ8J68VZv9MYsbzYe7E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
