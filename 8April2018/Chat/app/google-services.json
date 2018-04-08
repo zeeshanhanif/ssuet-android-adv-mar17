@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "83597408528",
+    "firebase_url": "https://chatkotlin-d8346.firebaseio.com",
+    "project_id": "chatkotlin-d8346",
+    "storage_bucket": "chatkotlin-d8346.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83597408528:android:a5dc1f7b989da455",
+        "android_client_info": {
+          "package_name": "com.example.ishaqhassan.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83597408528-anisi0l1jfg6qbig48b1tpl09970eg07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ishaqhassan.chat",
+            "certificate_hash": "1b6e22bd7f211001c32deb56a7ed32cff27f73fb"
+          }
+        },
+        {
+          "client_id": "83597408528-dgkb947s150pqjdbckdtrua3jjua49hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNYHvAhscLHDXZzvWDHnRvpZmEnutMQw8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83597408528-dgkb947s150pqjdbckdtrua3jjua49hk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
